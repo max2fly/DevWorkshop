@@ -1,9 +1,0 @@
-1) Similarities: Both have clear guidelines on what the code review needs to follow. Both follow the idea that the review should be non-criticising and clear.
-Differences: In Yelp, the reviewer is responsible for the code that they review, which is different from Microsoft. Microsoft uses emojis in order to rate the code, which is a unique system from yelp.
-In general, the code review should be non-judgemental and should highlight the issues in a way that can be fixed by the submitter.
-
-2) https://codereview.stackexchange.com/questions/291401/function-that-returns-activation-function-as-well-as-its-derivative
-This is a good review as it goes into great detail of every issue and explains how to fix it, while not offending the original poster
-
-3) https://codereview.stackexchange.com/questions/291198/scene-hierarchy-with-translation-rotation-and-scale
-The review is pretty poorly structured and is a massive wall of text, it doesnt go into great detail into why there is an issue other than saying that "the logic is wrong", which is difficult to fix on its own. One way to improve this would be to go into detail on how the logic is wrong and how to fix the logic error in hte issue.
